@@ -3,8 +3,11 @@ JavaScript Form Validation
 
 ---
 
+<img src="Validation.png"
+     alt="Validation"/>
+     
 <img src="Form_Validation.png"
-     alt="Form_Validation"/>
+alt="Form_Validation"/>
 
 
 
